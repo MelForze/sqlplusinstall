@@ -1,6 +1,6 @@
 # sqlplusinstall
 
-GitHub Repository: [MelForze/easysqlplusinstall](https://github.com/MelForze/sqlplusinstall)
+GitHub Repository: [MelForze/easysqlplusinstall](https://github.com/MelForze/easysqlplusinstall)
 
 A versatile Bash script to install Oracle SQL\*Plus on ARM64 systems, including Apple Silicon macOS (M-series) and other ARM64-based Linux distributions.
 
@@ -119,7 +119,3 @@ sqlplus -V
 ```
 
 You should see the SQL\*Plus version information if everything is set up correctly.
-
----
-
-**Author**: MelForze
